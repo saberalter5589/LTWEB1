@@ -1,0 +1,70 @@
+.cauSection {
+    max-width: 95% !important;
+}
+
+.cau1 {
+    background-image: url(../20880265/images/backgrounds/bg-01.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.55)
+}
+
+.cau1header {
+    color: white !important;
+}
+
+.thanhmenu {
+    background-color: rgba(44, 153, 170, 0.5) !important;
+    opacity: 0.9;
+}
+
+.nav-link {
+    color: white;
+    font-weight: bold;
+}
+
+.bg-faded {
+    opacity: 0.9;
+}
+
+.box-left {
+    position: absolute;
+    top: 20em;
+    left: 0;
+    width: 50%;
+    color: white
+}
+
+.imgtext {
+    display: inline-block;
+    margin: 20px;
+}
+
+.page-item.active .page-link {
+    background-color: #BEBEBE !important;
+    border-color: #BEBEBE !important;
+}
+
+.cau3 {
+    background-image: url(../20880265/images/backgrounds/bg-03.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+.form {
+    background-color: rgba(2550, 255, 255, 0.8);
+    padding: 3em 3em !important;
+    width: 700px !important
+}
+
+.btn-primary {
+    background-color: #E6A756 !important;
+    border: none !important
+}
+
+.element {
+    margin: 1em 0
+}
